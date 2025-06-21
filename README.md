@@ -24,9 +24,9 @@
 
 > A few project templates I'm working on or planning to build:
 
-- ✅ **Student Profile Management System** – Tkinter + SQLite GUI app  _(in progress)_
-- ✅ **Mini Excel App** – Load Excel files using `openpyxl` and display with `Treeview`  
-- 🛠️ **File Organizer** – Organize files by type/date  
+- 📝 **Student Profile Management System** – Tkinter + SQLite GUI app  _(in progress)_
+- 📓 **Mini Excel App** – Load Excel files using `openpyxl` and display with `Treeview`  
+- 🧮 **Simple Web-based Calculator - HTML/CSS & Javascript
 - 💡 **Guessing Game** – Fun number guessing with hints and restart  
 - 🧪 More ideas coming...
 
