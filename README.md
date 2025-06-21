@@ -4,7 +4,7 @@
 🐍 Currently learning **Python**, **Tkinter**, **SQLite3**  
 🎯 Goal: Finish my Computer Engineering degree  
 ♟️ Hobbies: Playing Chess, Fish keeping, Coding
-🛠️ Creating bugs since 2024
+⚒️ Creating bugs since 2024
 
 ---
 
