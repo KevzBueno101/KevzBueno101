@@ -27,8 +27,8 @@
 
 - 📝 **Student Profile Management System** – Tkinter + SQLite GUI app  _(in progress)_
 - 📓 **Mini Excel App** – Load Excel files using `openpyxl` and display with `Treeview`
-- 📰**PDF to DOCX Converter- Standanlone desktop app
-- 🧮 **Simple Web-based Calculator - HTML/CSS & Javascript
+- 📰 **PDF to DOCX Converter**- Standanlone desktop app
+- 🧮 **Simple Web-based Calculator** - HTML/CSS & Javascript
 - 💡 **Guessing Game** – Fun number guessing with hints and restart
 - 🧪 More ideas coming...
 
