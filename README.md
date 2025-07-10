@@ -18,8 +18,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)  
-![Windsurf](https://img.shields.io/badge/Windsurf-0093DD?style=for-the-badge&logo=powerbi&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/ChatGPT-1A1F2E?style=for-the-badge&logo=openai&logoColor=white)  
+![Windsurf](https://img.shields.io/badge/Windsurf-00BFFF?style=for-the-badge&logo=waze&logoColor=white)
+
 
 ---
 
