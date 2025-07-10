@@ -23,7 +23,7 @@
 
 ## 📌 Projects & Ideas
 
-> A few project I'm working on or planning to build:
+> A few project I worked on or planning to build:
 
 - 📝 **Student Profile Management System** – Tkinter + SQLite GUI app  _(in progress)_
 - 📓 **Mini Excel App** – Load Excel files using `openpyxl` and display with `Treeview`
