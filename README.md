@@ -28,7 +28,7 @@
 
 ---
 
-## 📌 Projects & Ideas
+## 📌 Projects
 
 > A few projects I worked on or am planning to build:
 
