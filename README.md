@@ -34,6 +34,7 @@
 > A few project I worked on or planning to build:
 
 - 📝 **Student Profile Management System** – Tkinter + SQLite GUI app  _(in progress)_
+- 🎫 **GWA Calculator** - Modern GUI using CustomTkinter
 - 📓 **Mini Excel App** – Load Excel files using `openpyxl` and display with `Treeview`
 - 📰 **PDF to DOCX Converter**- Standanlone desktop app
 - 🧮 **Simple Web-based Calculator** - HTML/CSS & Javascript
