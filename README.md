@@ -31,14 +31,14 @@
 
 ## 📌 Projects & Ideas
 
-> A few project I worked on or planning to build:
+> A few projects I worked on or am planning to build:
 
-- 📝 **Student Profile Management System** – Tkinter + SQLite GUI app  _(in progress)_
-- 🎫 **GWA Calculator** - Modern GUI using CustomTkinter
-- 📓 **Mini Excel App** – Load Excel files using `openpyxl` and display with `Treeview`
-- 📰 **PDF to DOCX Converter**- Standanlone desktop app
-- 🧮 **Simple Web-based Calculator** - HTML/CSS & Javascript
-- 💡 **Guessing Game** – Fun number guessing with hints and restart
+- 📝 [**Student Profile Management System**](https://github.com/KevzBueno101/SPMS) – Tkinter + SQLite GUI app  _(in progress)_
+- 🎫 [**GWA Calculator**](https://github.com/KevzBueno101/GWA-Calculator) – Modern GUI using CustomTkinter
+- 📓 [**Mini Excel App**](https://github.com/KevzBueno101/Mini-Excel-App) – Load Excel files using `openpyxl` and display with `Treeview`
+- 📰 [**PDF to DOCX Converter**](https://github.com/KevzBueno101/PDF-DOCX-Converter) – Standalone desktop app
+- 🧮 [**Simple Web-based Calculator**](https://github.com/KevzBueno101/Calculator) – HTML/CSS & JavaScript
+- 💡 [**Guessing Game**](https://github.com/KevzBueno101/My-1st-game) – Fun number guessing with hints and restart
 - 🧪 More ideas coming...
 
 ---
