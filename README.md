@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Kevin B. Bueno
 
 🎓 Aspiring Software Engineer from Catanduanes, Philippines  
-🐍 Currently learning **Python**, **Tkinter**, **SQLite3**  
 🎯 Goal: Finish my Computer Engineering degree  
 ♟️ Hobbies: Playing Chess, Fish keeping, Coding   
 ⚒️ Creating bugs since 2024
