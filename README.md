@@ -22,7 +22,8 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![OpenAI (ChatGPT)](https://img.shields.io/badge/ChatGPT-1A1F2E?style=for-the-badge&logo=openai&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00BFFF?style=for-the-badge&logo=waves&logoColor=white)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
     
 
 ---
