@@ -4,7 +4,7 @@
 🎯 Goal: Finish my Computer Engineering degree  
 ♟️ Hobbies: Playing Chess, Fish keeping, Coding   
 
-> A code-blododed Engineer 
+> Transforming ideas into code
 
 ---
 
