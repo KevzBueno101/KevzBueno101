@@ -3,7 +3,8 @@
 🎓 Aspiring Software Engineer from Catanduanes, Philippines  
 🎯 Goal: Finish my Computer Engineering degree  
 ♟️ Hobbies: Playing Chess, Fish keeping, Coding   
-⚒️ Creating bugs since 2024
+
+> A code-blododed Engineer 
 
 ---
 
