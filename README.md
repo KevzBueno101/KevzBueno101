@@ -31,7 +31,7 @@
 
 ## 📌 Projects
 
-> A few projects I worked on or am planning to build:
+> A few projects I worked on with Python Tkinter
 
 - 🎫 [**GWA Calculator**](https://github.com/KevzBueno101/GWA-Calculator) – Modern GUI using CustomTkinter
 - 📝 [**Student Profile Management System**](https://github.com/KevzBueno101/SPMS) – Tkinter + SQLite GUI app  _(in progress)_
