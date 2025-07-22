@@ -42,7 +42,7 @@
 >Few projects I worked on Web Development 
 
 - 🧮 [**Simple Web-based Calculator**](https://github.com/KevzBueno101/Calculator) – HTML/CSS & JavaScript
-
+- 🗂️ [**Portfolio**](https://kevzbueno101.github.io/Portfolio)
 - 🧪 More ideas coming...
 
 ---
