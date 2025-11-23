@@ -44,6 +44,7 @@
 
 - 🧮 [**Simple Web-based Calculator**](https://github.com/KevzBueno101/Calculator) – HTML/CSS & JavaScript
 - 🗂️[**Portfolio**](https://kevzbueno101.github.io/Portfolio)_(in progress...)_
+- 📁[**GWA-Calculator**](https://gwac.vercel.app) - Product website of my windows-based gwa calculator app
 - 🧪 More ideas coming...
 
 ---
