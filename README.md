@@ -1,20 +1,47 @@
-<a href="#"> <p align="center"> <img width="50%" height="auto" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" height="175px"/> </p> </a>
+<a href="#">
+  <p align="center">
+    <img width="50%" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" />
+  </p>
+</a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kevin</h1>
-<h3 align="center">An Aspiring Software Engineer.</h3>
-<p align="center">Transforming ideas into code</p>
+<h1 align="center">
+  Hello
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kevin
+</h1>
+<h3 align="center">An Aspiring Software Engineer</h3>
+<p align="center"><i>Transforming ideas into code</i></p>
 
 ---
 
 ## 👈 About Me
 
-- 📖 Taking up BS in Computer Engineering at Catanduanes State University
+- 📖 Taking up **BS in Computer Engineering** at **Catanduanes State University**
+- ♟️ Hobbies: Playing Chess, Fish keeping, Coding
 
-- ♟️ Hobbies: Playing Chess, Fish keeping, Coding   
+---
+
+## 📊 GitHub Graphs / Charts
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevzBueno101&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KevzBueno101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevzBueno101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevzBueno101&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 👨‍💻 I Code With
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFB200?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,30 +57,66 @@
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-> A few projects I worked on with Python Tkinter
+### 🏢 ICPEP Portal
+A portal project built mainly with JavaScript and Python.  
+🔗 https://github.com/KevzBueno101/icpep_portal
 
-- 🎫 [**GWA Calculator**](https://github.com/KevzBueno101/GWA-Calculator) – Modern GUI using CustomTkinter
-- 📝 [**Student Profile Management System**](https://github.com/KevzBueno101/SPMS) – Tkinter + SQLite GUI app  _(in progress)_
-- 📰 [**PDF to DOCX Converter**](https://github.com/KevzBueno101/PDF-DOCX-Converter) – Standalone desktop app
-- 📓 [**Mini Excel App**](https://github.com/KevzBueno101/Mini-Excel-App) – Load Excel files using `openpyxl` and display with `Treeview`
-- 💡 [**Guessing Game**](https://github.com/KevzBueno101/My-1st-game) – Fun number guessing with hints and restart
+### 🏠 RENTS System
+A Project in Software Design (CPE7).  
+🔗 https://github.com/KevzBueno101/rents_system
 
->Few projects I worked on Web Development 
+### 📝 SPMS (Profile Management System)
+A windows-based app made from Python.  
+🔗 https://github.com/KevzBueno101/SPMS
 
-- 🧮 [**Simple Web-based Calculator**](https://github.com/KevzBueno101/Calculator) – HTML/CSS & JavaScript
-- 🗂️[**Portfolio**](https://kevzbueno101.github.io/Portfolio)_(in progress...)_
-- 📁[**GWA-Calculator**](https://gwac.vercel.app) - Product website of my windows-based gwa calculator app
-- 🧪 More ideas coming...
+### 🗂️ Portfolio
+Personal portfolio website.  
+🔗 https://github.com/KevzBueno101/Portfolio
+
+### 🌐 PhilSite
+A group project during senior high school.  
+🔗 https://github.com/KevzBueno101/PhilSite
+
+### 📊 GWA-Cal Web
+A product website for my Windows-based app GWA-Calculator.  
+🔗 https://github.com/KevzBueno101/GWA-Cal.-Web
+
+---
+
+## 🖼️ Project Previews
+
+> You can replace these placeholders with your actual screenshots/GIFs anytime.
+
+<p align="center">
+  <a href="https://github.com/KevzBueno101/icpep_portal">
+    <img src="https://via.placeholder.com/900x420/0d1117/58a6ff?text=ICPEP+Portal+Preview" width="85%" alt="ICPEP Portal Preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KevzBueno101/rents_system">
+    <img src="https://via.placeholder.com/900x420/0d1117/3fb950?text=RENTS+System+Preview" width="85%" alt="RENTS System Preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KevzBueno101/SPMS">
+    <img src="https://via.placeholder.com/900x420/0d1117/f2cc60?text=SPMS+Preview" width="85%" alt="SPMS Preview" />
+  </a>
+</p>
 
 ---
 
 ## 📬 Connect With Me
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevin.barias.5)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-barias-bueno)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbarias03@gmail.com)
 
 ---
 
-Thanks for visiting my profile! Let's build cool things together 🚀
+<p align="center">
+  Thanks for visiting my profile! Let's build cool things together 🚀
+</p>
