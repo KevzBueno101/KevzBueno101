@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevzBueno101&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58a6ff/KevzBueno101" alt="Contribution Graph" width="90%" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 ### 🏢 ICPEP Portal
 A portal project built mainly with JavaScript and Python.  
-🔗 Live: https://icpep-portal-test.vercel.app  
+🔗 Live: https://icpepcatsu.app
 🔗 Repo: https://github.com/KevzBueno101/icpep_portal
 
 ### 🏠 RENTS System
