@@ -60,6 +60,9 @@
 
 ---
 
+### 🗂️ Portfolio
+Personal portfolio website.  
+🔗 Link: https://kevz-portfolio.vercel.app/
 ## 📌 Featured Projects
 
 ### 🏢 ICPEP Portal
@@ -80,10 +83,6 @@ A product website for my Windows-based app GWA-Calculator.
 ### 📝 SPMS (Profile Management System)
 A windows-based app made from Python.  
 🔗 Repo: https://github.com/KevzBueno101/SPMS
-
-### 🗂️ Portfolio
-Personal portfolio website.  
-🔗 Repo: https://github.com/KevzBueno101/Portfolio
 
 ### 🌐 PhilSite
 A group project during senior high school.  
