@@ -87,7 +87,7 @@
 
 | Project | Description | Users | Links |
 |---|---|---|---|
-| 🏢 **ICPEP Portal** | Full-stack portal for membership, officers, and communications (React + Django) | <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficpep-portal-backend.onrender.com%2Fapi%2Fpublic%2Fstats%2F&query=%24.members&color=58a6ff&style=flat-square&logo=react&logoColor=white&labelColor=0d1117&cacheSeconds=3600" alt="ICPEP Portal Users" /> | [Live](https://icpepcatsu.app) · [Repo](https://github.com/KevzBueno101/icpep_portal) |
+| 🏢 **ICPEP Portal** | Full-stack portal for membership, officers, and communications (React + Django) | <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficpep-portal-backend.onrender.com%2Fapi%2Fpublic%2Fstats%2F&query=%24.members&label=&color=58a6ff&style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxMmE1IDUgMCAxIDAgMC0xMCA1IDUgMCAwIDAgMCAxMHptMCAyYy00LjQgMC04IDIuMi04IDV2M2gxNnYtM2MwLTIuOC0zLjYtNS04LTV6Ii8%2BPC9zdmc%2B&labelColor=0d1117&cacheSeconds=3600" alt="ICPEP Portal Users" /> | [Live](https://icpepcatsu.app) · [Repo](https://github.com/KevzBueno101/icpep_portal) |
 | 🏠 **RENTS System** | Boarding house management system, a Software Design (CPE7) project | — | [Live](https://rents-system.onrender.com) · [Repo](https://github.com/KevzBueno101/rents_system) |
 | 📊 **GWA-Cal Web** | Product website for my Windows app, GWA-Calculator | — | [Live](https://gwac.vercel.app) · [Repo](https://github.com/KevzBueno101/GWA-Cal.-Web) |
 | 📝 **SPMS** | Profile Management System, a Windows app made with Python | — | [Repo](https://github.com/KevzBueno101/SPMS) |
