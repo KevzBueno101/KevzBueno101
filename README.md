@@ -27,7 +27,7 @@
 ## 🚀 Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficpep-backend-mriy.onrender.com%2Fapi%2Fpublic%2Fstats%2F&query=%24.members&label=ICPEP%20Portal%20Members&color=58a6ff&style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117&cacheSeconds=3600" alt="ICPEP Portal Users" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficpep-portal-backend.onrender.com%2Fapi%2Fpublic%2Fstats%2F&query=%24.members&label=ICPEP%20Portal%20Members&color=58a6ff&style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117&cacheSeconds=3600" alt="ICPEP Portal Users" />
 </p>
 
 
