@@ -24,12 +24,6 @@
 
 ---
 
-## 🚀 Impact
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficpep-portal-backend.onrender.com%2Fapi%2Fpublic%2Fstats%2F&query=%24.members&label=ICPEP%20Portal%20Members&color=58a6ff&style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117&cacheSeconds=3600" alt="ICPEP Portal Users" />
-</p>
-
 
 ---
 
@@ -89,18 +83,16 @@
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-| Project | Description | Links |
-|---|---|---|
-| 🏢 **ICPEP Portal** | Full-stack portal for membership, officers, and communications (React + Django) | [Live](https://icpepcatsu.app) · [Repo](https://github.com/KevzBueno101/icpep_portal) |
-| 🏠 **RENTS System** | Boarding house management system, a Software Design (CPE7) project | [Live](https://rents-system.onrender.com) · [Repo](https://github.com/KevzBueno101/rents_system) |
-| 📊 **GWA-Cal Web** | Product website for my Windows app, GWA-Calculator | [Live](https://gwac.vercel.app) · [Repo](https://github.com/KevzBueno101/GWA-Cal.-Web) |
-| 📝 **SPMS** | Profile Management System, a Windows app made with Python | [Repo](https://github.com/KevzBueno101/SPMS) |
-| 🌐 **PhilSite** | Group project during senior high school | [Repo](https://github.com/KevzBueno101/PhilSite) |
-| 🗂️ **Portfolio** | My personal portfolio website | [Live](https://kevz-portfolio.vercel.app/) |
-
+| Project | Description | Users | Links |
+|---|---|---|---|
+| 🏢 **ICPEP Portal** | Full-stack portal for membership, officers, and communications (React + Django) | <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficpep-portal-backend.onrender.com%2Fapi%2Fpublic%2Fstats%2F&query=%24.members&label=Users&color=58a6ff&style=flat-square&logo=react&logoColor=white&labelColor=0d1117&cacheSeconds=3600" alt="ICPEP Portal Users" /> | [Live](https://icpepcatsu.app) · [Repo](https://github.com/KevzBueno101/icpep_portal) |
+| 🏠 **RENTS System** | Boarding house management system, a Software Design (CPE7) project | — | [Live](https://rents-system.onrender.com) · [Repo](https://github.com/KevzBueno101/rents_system) |
+| 📊 **GWA-Cal Web** | Product website for my Windows app, GWA-Calculator | — | [Live](https://gwac.vercel.app) · [Repo](https://github.com/KevzBueno101/GWA-Cal.-Web) |
+| 📝 **SPMS** | Profile Management System, a Windows app made with Python | — | [Repo](https://github.com/KevzBueno101/SPMS) |
+| 🌐 **PhilSite** | Group project during senior high school | — | [Repo](https://github.com/KevzBueno101/PhilSite) |
+| 🗂️ **Portfolio** | My personal portfolio website | — | [Live](https://kevz-portfolio.vercel.app/) |
 ### 🖼️ Live Previews
 
 <p align="center">
